@@ -1,0 +1,5 @@
+{
+  "name": "Ephemeral Chat",
+  "description": "A privacy-focused, ephemeral chat application where sessions, friendships, and messages are temporary. Features a modern dark theme, real-time messaging, and secure session management.",
+  "requestFramePermissions": []
+}
